@@ -30,6 +30,13 @@
   </url>
 
   <url>
+    <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/index.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/01_hyoshi.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,16 +52,31 @@
 
   <url>
     <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/03_shubutogawa.html</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/index.html</loc>
-    <lastmod>2026-09-02</lastmod>
+    <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/04_tainomusume.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/05_kizuato.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://zliang00.github.io/Kumota_Mitsuo/shubutogawa/06_atogaki.html</loc>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 </urlset>
+
